@@ -4,7 +4,7 @@ sudo qmake
 sudo make
     
 # usage : 
-syntax : airodump <interface>    
+syntax : airodump "<"interface">"    
     
 # example of 80211-sample3.pcap on gilgil
    
