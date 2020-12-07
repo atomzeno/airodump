@@ -1,7 +1,7 @@
 # airodump    
     
-sudo qmake
-sudo make
+sudo qmake    
+sudo make    
     
 # usage : 
 syntax  : airodump interface    
